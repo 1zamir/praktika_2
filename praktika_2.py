@@ -123,4 +123,4 @@ for gorod in oblast:
   print(f'{gorod} - город {oblast[gorod]}')
 
 
-# ссылка на результат программы: https://sun9-east.userapi.com/sun9-35/s/v1/ig2/ZHtXZ-ep6JM0g9wTiwA_BjDuP8dragz1U4N5dwM7AA4gUn2OaDLsQE5axqKV44uag9IZMfHZLpSr0gddmHix5IGF.jpg?size=1280x691&quality=95&type=album
+# ссылка на результат самостоятельного задания: https://clck.ru/z6Dp2
